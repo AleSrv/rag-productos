@@ -20,3 +20,4 @@ nohup.out
 *.save
 nohup.out
 *.db
+*.save*

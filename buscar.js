@@ -175,4 +175,30 @@ ${pregunta}`,
   }
 });
 
+// 📦 LISTAR PRODUCTOS
+router.get('/api/productos', (req, res) => {
+  try {
+    const productos = db.prepare(`
+      SELECT DISTINCT archivo
+      FROM chunks
+      ORDER BY archivo ASC
+    `).all();
+
+    const lista = productos.map(p => ({
+      archivo: p.archivo,
+      nombre: p.archivo
+        .replace('.pdf', '')
+        .replace(/_/g, ' ')
+        .replace(/-/g, ' ')
+    }));
+
+    res.json(lista);
+  } catch (err) {
+    console.error('Error listando productos:', err.message);
+    res.status(500).json({ error: 'Error interno' });
+  }
+});
+
+module.exports = router;
+
 module.exports = router;
