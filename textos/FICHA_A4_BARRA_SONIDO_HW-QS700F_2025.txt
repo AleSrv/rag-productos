@@ -1,0 +1,77 @@
+Aquí tienes la información del modelo Samsung HW-QS700F estructurada en Markdown:
+
+**Modelo: HW-QS700F**
+
+## Características Generales
+- Número de canales: 3.1.2
+- Número de altavoces: 8
+- Potencia total altavoces: 345 vatios
+- Color: Titan Black
+
+## Altavoces
+- Altavoz central: Sí
+- Altavoz superior: Sí
+- Altavoz frontal: Sí
+- Subwoofer inalámbrico incluido: Sí
+
+## Audio
+- Dolby: Dolby Digital Plus, Dolby True HD, ATMOS, Dolby 5.1ch, ATMOS Music
+- Modo Amplificador de voz: Sí
+- Modo nocturno: Sí
+- SpaceFit Sound Pro: Sí, coordinado con TV
+- Modos de sonido: Surround Sound expansion, Game Pro, Standard, Adaptive Sound, DTS Virtual:X
+- LPCM: Multi canal
+- Moderate Bass: Sí
+
+## Video
+- 4K Video Pass: 60 hercios
+- HDR: HDR10+
+
+## Formatos de Decodificación
+- MP3
+- AAC
+- OGG
+- FLAC
+- WAV
+- ALAC
+- AIFF
+
+## Conectividad
+- Entrada HDMI: 1
+- Salida HDMI: 1
+- HDMI ARC: Sí (eARC)
+- HDMI CEC: Sí
+- Entrada óptica: 1
+- Bluetooth: Sí
+- Versión Bluetooth: Bluetooth 5.3
+- WiFi: Sí
+- One Remote Control: Sí
+- SmartThings App: Sí
+- Q-Symphony: Sí
+- Dolby Atmos inalámbrico: Sí
+- Tap Sound: Sí
+- Google Cast: Sí
+- Spotify Connect: Sí
+- Roon Service: Roon Ready
+- AirPlay: Sí
+- Tidal Connect: Sí
+- Compatible kit altavoces traseros inalámbricos: Sí, SWA-9500S
+
+## Asistente de Voz
+- Compatible con Google Home: Sí
+
+## Accesorios
+- Mando a distancia: Sí
+- Soporte de pared: Sí
+
+## Características Adicionales
+- Convertible Fit: Colgada en la pared o sobre el mueble. Los sensores de la barra adaptan el sonido a cualquier posición.
+
+## Dimensiones y Peso (HW-QS700F/ZF)
+- EAN: 8806097107804
+- Dimensiones netas (barra): 1160.0 x 51.0 x 120.0 mm
+- Dimensiones subwoofer: 249.0 x 252.0 x 249.0 mm
+- Dimensiones con caja: 1237.0 x 392.0 x 296.0 mm
+- Peso neto barra: 4.4 kg
+- Peso neto subwoofer: 4.8 kg
+- Peso con caja: 12.8 kg

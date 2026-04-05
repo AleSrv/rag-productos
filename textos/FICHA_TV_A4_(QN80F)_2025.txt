@@ -1,0 +1,191 @@
+# Samsung Neo QLED QN80F
+
+## Modelos Disponibles
+- 100 pulgadas
+- 85 pulgadas
+- 75 pulgadas
+- 65 pulgadas
+- 55 pulgadas
+- 50 pulgadas
+
+## Samsung Vision AI
+- **Inteligencia Artificial que mejora la imagen y el sonido:**
+    - La AI escala cualquier contenido optimizando imagen y sonido, disfrutando de series como si hubiesen sido grabadas en 4K.
+- **Inteligencia Artificial que mejora tu día a día:**
+    - Accede a un mundo de posibilidades con solo un botón: subtítulos, detalles de tus artistas favoritos, control de tu casa.
+- **Hasta los detalles más escondidos (Quantum Matrix Technology Core):**
+    - La tecnología Mini LED desvela los detalles escondidos en las escenas más oscuras.
+- **Gana todas las partidas (Motion Xcelerator 144Hz):**
+    - Juega a 144 hercios en 4K. El TV no será un problema para que juegues de manera fluida, sin cortes y ganes la partida.
+
+## Diseño de Peana
+- **100 pulgadas:** Diseño diferente de peana
+- **50 pulgadas:** Diseño diferente de peana
+
+---
+
+## Especificaciones Técnicas Detalladas
+
+### Imagen
+- **Resolución:** 4K
+- **Contraste:** Quantum Matrix Technology Core
+- **HDR (High Dynamic Range):** Neo Quantum HDR
+- **Ratio de refresco:** 120 hercios (50" 60 hercios)
+- **Tecnología:** Mini LED
+- **Color:** 100% Volumen de Color con Quantum Dot
+- **Color Booster:** Pro
+- **HDR10+:** Adaptive/Gaming (50" solo Adaptive)
+- **Auto HDR Remastering:** Auto HDR Remastering
+- **Procesador:** NQ4 AI Gen2 Processor, 20 redes neuronales
+- **Super Size Picture Enhancer:** Sí (100" y 85")
+- **Ángulo de visión:** Wide Viewing Angle (50" N/A)
+- **Micro Dimming:** Supreme UHD Dimming
+- **Contrast Enhancer:** Real Depth Enhancer
+- **Picture Upscale:** 4K AI Upscaling
+- **Filmmaker Mode:** Sí
+- **EyeComfort Mode:** Sí
+- **AI Mode:** Sí
+- **ECO Sensor:** Sí
+
+### Sonido
+- **Dolby Atmos:** Sí
+- **Potencia:** 30 vatios
+- **Altavoces:** 4 Ch
+- **Q-Symphony:** Sí
+- **OTS (Object Tracking Sound):** OTS Lite
+- **AVA (Active Voice Amplifier):** AVA Pro
+- **Adaptive Sound:** Sí, pro
+- **Audio 360:** Sí
+- **Salida Audio Bluetooth:** Dual
+
+### Gaming
+- **Motion Technology:** Motion Xcelerator 144 hercios (50" Motion Xcelerator 60 hercios)
+- **Super Ultra Wide Game View:** Sí
+- **Gaming Hub:** Sí
+- **AI Auto Game Mode:** Sí
+- **FreeSync:** Freesync Premium Pro (50" N/A)
+
+### Diseño
+- **Diseño:** Simple Chamfer
+- **Art Mode:** Sí
+
+### Vision AI
+- **Live Translate:** Sí
+- **Click to Search:** Sí
+- **Generative Wallpaper:** Sí
+
+### Smart TV Powered by Tizen
+- **Multi View:** 2 pantallas
+- **Multi Control:** Sí
+- **Soporte visión reducida:** Sí
+- **Asistente de voz integrado:** Bixby y Alexa
+- **Asistente de voz compatible:** Alexa y Google
+- **Far-Field Voice Interaction:** Sí, incluso con el TV apagado
+- **Apple AirPlay:** Sí
+- **Workspace:** TV como monitor externo inalámbrico
+- **TV Plus:** Sí
+- **Multi Device Experience:** TV a Móvil, Móvil a TV, TV initiate mirroring, Sound Mirroring, Wireless TV On
+- **SmartThings:** Integrado
+- **AI Energy Mode:** Sí
+- **Pet Care:** Sí
+- **Universal Gesture:** Sí
+- **Quick Remote:** Sí
+- **Tap View:** Sí
+- **Samsung Knox Security:** Sí, reforzado
+
+### Conectividad
+- **Transmisor Digital:** DVB-T2CS2 x 2
+- **WiFi/Bluetooth:** WiFi 5/BT5.3
+- **HDMI:** 4 puertos
+- **Transmisión de datos:** HbbTV 2.0.3
+- **USB:** 2 x USB-A
+- **Salida de Audio Digital (óptica):** 1 Salida de audio digital
+- **Entrada RF (Terrestre / Entrada Cable / Entrada satélite):** 1/1(Common Use for Terrestrial)/1
+
+### Remote Controller
+- **Modelo Remote Control:** Solar con botón AI
+
+## Pareja Perfecta para tu TV (Soundbars)
+- **Experto:** Sonido inteligente HW-Q600F
+- **Aficionado:** Sonido surround HW-B750F
+- **Principiante:** Fina y potente HW-S800D
+
+## Dimensiones y Peso del QN80F
+
+### TQ100QN80FUXXC (100 pulgadas / 253 Cms.)
+- **EAN:** 8806097067689
+- **Peso (kg.):**
+    - Sin peana: 58.9
+    - Con peana: 60.3
+    - Con caja: 81.7
+- **Dimensión peana:** 1722.9 x 415.4
+- **Dimensiones (Ancho x Alto x Fondo mm.):**
+    - Sin peana: 2229.8 x 1273.4 x 57.4
+    - Con peana: 2229.8 x 1332.4 x 415.4
+    - Con caja: 2399 x 1444 x 230
+- **Soporte pared VESA compatible:** 600x400
+
+### TQ85QN80FAUXXC (85 pulgadas / 214 Cms.)
+- **EAN:** 8806097067658
+- **Peso (kg.):**
+    - Sin peana: 40.6
+    - Con peana: 42.2
+    - Con caja: 54.1
+- **Dimensión peana:** 375.4 x 366.5
+- **Dimensiones (Ancho x Alto x Fondo mm.):**
+    - Sin peana: 1892.8 x 1082.8 x 48.2
+    - Con peana: 1892.8 x 1137.7 x 366.5
+    - Con caja: 2056 x 1200 x 178
+- **Soporte pared VESA compatible:** 600x400
+
+### TQ75QN80FAUXXC (75 pulgadas / 189 Cms.)
+- **EAN:** 8806097067641
+- **Peso (kg.):**
+    - Sin peana: 32.2
+    - Con peana: 33.5
+    - Con caja: 45.7
+- **Dimensión peana:** 354.8 x 331.5
+- **Dimensiones (Ancho x Alto x Fondo mm.):**
+    - Sin peana: 1670.6 x 958.3 x 47.1
+    - Con peana: 1670.6 x 1015.6 x 331.5
+    - Con caja: 1822 x 1075 x 169
+- **Soporte pared VESA compatible:** 400x400
+
+### TQ65QN80FAUXXC (65 pulgadas / 163 Cms.)
+- **EAN:** 8806097067733
+- **Peso (kg.):**
+    - Sin peana: 22.7
+    - Con peana: 23.7
+    - Con caja: 30.8
+- **Dimensión peana:** 314.3 x 279.4
+- **Dimensiones (Ancho x Alto x Fondo mm.):**
+    - Sin peana: 1446.5 x 829.3 x 46.6
+    - Con peana: 1446.5 x 886.3 x 279.4
+    - Con caja: 1593 x 930 x 158
+- **Soporte pared VESA compatible:** 400x300
+
+### TQ55QN80FAUXXC (55 pulgadas / 138 Cms.)
+- **EAN:** 8806097067719
+- **Peso (kg.):**
+    - Sin peana: 16.4
+    - Con peana: 17.2
+    - Con caja: 22.0
+- **Dimensión peana:** 263.9 x 247.4
+- **Dimensiones (Ancho x Alto x Fondo mm.):**
+    - Sin peana: 1227.6 x 706.2 x 47.2
+    - Con peana: 1227.6 x 764.0 x 247.4
+    - Con caja: 1352 x 813 x 148
+- **Soporte pared VESA compatible:** 200x200
+
+### TQ50QN80FAUXXC (50 pulgadas / 125 Cms.)
+- **EAN:** 8806097067696
+- **Peso (kg.):**
+    - Sin peana: 12.9
+    - Con peana: 13.3
+    - Con caja: 17.6
+- **Dimensión peana:** 967.2 x 238.6
+- **Dimensiones (Ancho x Alto x Fondo mm.):**
+    - Sin peana: 1114.2 x 643.6 x 47.8
+    - Con peana: 1114.2 x 699.3 x 238.6
+    - Con caja: 1241 x 744 x 142
+- **Soporte pared VESA compatible:** 200x200

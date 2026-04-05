@@ -1,0 +1,78 @@
+Aquí tienes la información extraída del PDF en formato Markdown estructurado:
+
+# Music Frame HW-LS60D
+
+Samsung N°1 del mundo en venta de barras de sonido durante 11 años.
+
+## Características Principales
+
+-   **Music Frame Design**: El primer altavoz que parece un cuadro. Elige la foto que más te guste y encaje en tu espacio.
+-   **Wireless Music Streaming**: Disfruta tu música en alta calidad a través de WiFi o Bluetooth.
+-   **Q-Symphony**: Completa el sonido de tu barra y TV con Music Frame y disfruta de todos los altavoces a la vez. La Inteligencia Artificial se encargará de optimizar el sonido.
+-   **Dolby Atmos®**: Efecto surround que te permitirá disfrutar el sonido que te rodea.
+
+## Características generales
+
+-   Número de canales: 2.0
+-   Número de altavoces: 6
+-   Color: Black
+
+## Sonido
+
+-   Dolby: Dolby Digital Plus, ATMOS, Dolby 5.1ch, ATMOS Music
+-   Modo Amplificador de voz: Sí
+-   Modo nocturno: Sí
+-   SpaceFit Sound: Sí
+-   Active Voice Amplifier: Sí
+-   Modos de sonido: Adaptive, Music, Standard
+-   LPCM: Multicanal
+
+## Características de vídeo
+
+-   4K Video Pass: No
+
+## Formato decodificador
+
+-   Formato decodificador: MP3 / AAC / OGG / FLAC / WAV / ALAC / AIFF
+
+## Conectividad
+
+-   Entrada HDMI: No
+-   Salida HDMI: No
+-   HDMI ARC: No
+-   HDMI CEC: No
+-   Entrada óptica: 1
+-   Bluetooth: Sí
+-   Versión Bluetooth: Bluetooth 5.2
+-   WiFi: Sí
+-   USB Music Playback: No
+-   One Remote Control: Sí
+-   SmartThings App: Sí
+-   Q-Symphony: Sí
+-   Dolby Atmos inalámbrico: Sí
+-   Altavoz trasero multiposición: No
+-   Tap Sound: Sí
+-   Google Cast: Sí
+-   Spotify Connect: Sí
+-   Roon Service: Roon Tested
+-   AirPlay: Sí
+
+## Asistente de sonido
+
+-   Compatible con Google Home: Sí
+-   Alexa: Sí (Built-in)
+-   Bixby: No
+
+## Accesorios
+
+-   Mando a distancia: No
+-   Soporte de pared: Sí, incluido
+
+## Dimensiones y Peso
+
+-   Modelo: HW-LS60D/XE
+-   EAN: 8806095465173
+-   Dimensiones netas (Ancho x Alto x Fondo): 353.0 x 364.8 x 143.4 mm
+-   Dimensiones con caja (Ancho x Alto x Fondo): 573.0 x 87.0 x 408.0 mm
+-   Peso neto altavoz: 4.6 kg
+-   Peso con caja: 5.9 kg

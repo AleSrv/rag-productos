@@ -1,0 +1,21 @@
+Aquí tienes la información extraída del PDF en formato Markdown estructurado:
+
+# Samsung Crystal UHD U7005F
+
+## Modelos Disponibles
+
+- 85"
+- 75"
+- 65"
+- 55"
+- 50"
+- 43"
+
+## Características Destacadas
+
+- **Colores increíbles (Crystal Processor 4K)**
+    - Imágenes reales con colores más puros y naturales en resolución 4K.
+- **Escucha todos los altavoces (Q-Symphony)**
+    - El sonido de tu TV se combina con el de tu barra de sonido Samsung, sin anular ninguno.
+- **Todos tus datos protegidos (Samsung Knox Security)**
+    - Cont

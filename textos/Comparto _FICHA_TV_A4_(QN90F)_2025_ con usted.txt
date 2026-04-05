@@ -1,0 +1,141 @@
+# Samsung Neo QLED QN90F
+
+## Modelos disponibles
+- 115"
+- 98"
+- 85"
+- 75"
+- 65"
+- 55"
+- 50"
+- 43"
+
+## Imagen
+- Resolución: 4K
+- Contraste: Quantum Matrix Technology Plus
+- HDR (High Dynamic Range): Neo Quantum HDR+ (43" y 50" Neo Quantum HDR)
+- Ratio de refresco: 120 hercios
+- Pantalla Antirreflejos: Glare Free
+- Tecnología: Mini LED
+- Color: 100% Volumen de Color con Quantum Dot
+- Color Booster: Pro
+- HDR10+: Adaptive/Gaming
+- Auto HDR Remastering: Auto HDR Remastering pro
+- Procesador: NQ4 AI Gen3 Processor, 128 redes neuronales
+- Super Size Picture Enhancer: Sí (98" y 85")
+- Ángulo de visión: Wide Viewing Angle
+- Micro Dimming: Ultimate UHD Dimming
+- Contrast Enhancer: Real Depth Enhancer Pro
+- Picture Upscale: 4K AI Upscaling Pro
+- Filmmaker Mode: Sí
+- EyeComfort Mode: Sí
+- AI Energy Mode: Sí
+- AI Mode: Sí
+- ECO Sensor: Sí
+
+## Sonido
+- Dolby Atmos: Sí
+- Potencia: 60 vatios (50" 40 vatios) (43" 20 vatios)
+- Altavoces: 4.2.2 Ch (50" 2.2 Ch) (43" 2 Ch)
+- Q-Symphony: Sí
+- OTS (Object Tracking Sound): OTS+ (43" y 50" OTS Lite)
+- AVA (Active Voice Amplifier): AVA Pro
+- Adaptive Sound: Sí, pro
+- Audio 360: Sí
+- Salida Audio Bluetooth: Dual
+
+## Gaming
+- Motion Technology: Motion Xcelerator 165 hercios
+- Super Ultra Wide Game View: Sí
+- Gaming Hub: Sí
+- AI Auto Game Mode: Sí
+- FreeSync: Freesync Premium Pro
+
+## Diseño
+- Diseño: Neo Slim
+- Art Mode: Sí
+
+## Vision AI
+- Live Translate: Sí
+- Click to Search: Sí
+- Generative Wallpaper: Sí
+
+## Smart TV Powered by Tizen
+- Multi View: 2 pantallas
+- Multi Control: Sí
+- Soporte visión reducida: Sí
+- Asistente de voz integrado: Bixby y Alexa
+- Asistente de voz compatible: Alexa y Google
+- Far-Field Voice Interaction: Sí, incluso con el TV apagado
+- Apple AirPlay: Sí
+- Workspace: TV como monitor externo inalámbrico
+- TV Plus: Sí
+- Universal Guide: Sí
+- Multi Device Experience: TV a Móvil, Móvil a TV, TV initiate mirroring, Sound Mirroring, Wireless TV On
+- SmartThings: Integrado
+- AI Energy Mode: Sí
+- Pet Care: Sí
+- Universal Gesture: Sí
+- Quick Remote: Sí
+- Tap View: Sí
+- Samsung Knox Security: Sí, reforzado
+
+## Conectividad
+- Transmisor Digital: DVB-T2CS2 x 2
+- WiFi/Bluetooth: WiFi 5/BT5.3
+- HDMI: 4 puertos
+- USB: 2 x USB-A
+- Transmisión de datos: HbbTV 2.0.3
+- Salida de Audio Digital (óptica): 1 Salida de audio digital
+- Entrada RF (Terrestre / Entrada Cable / Entrada satélite): 1/1(Common Use for Terrestrial)/2
+
+## Mando a distancia
+- Modelo Remote Control: Solar con botón AI
+
+## Barras de sonido recomendadas
+- Experto: Sonido inteligente HW-Q800F
+- Aficionado: Sonido surround HW-Q600F
+- Principiante: Fina y potente HW-S700D
+
+## Dimensiones y peso
+
+### TQ115QN90FTXXC
+- EAN: 8806097212324
+- Pulgadas: 115"
+- Cms.: TBC
+- Peso sin peana: TBC
+- Peso con peana: TBC
+- Peso con caja: TBC
+- Dimensión peana: TBC
+- Dimensiones sin peana (Ancho x Alto x Fondo mm.): TBC
+- Dimensiones con peana (Ancho x Alto x Fondo mm.): TBC
+- Dimensiones con caja (Ancho x Alto x Fondo mm.): TBC
+- Soporte pared VESA compatible: TBC
+
+### TQ98QN90FATXXC
+- EAN: 8806097064084
+- Pulgadas: 98"
+- Cms.: 247
+- Peso sin peana: 61.4 kg
+- Peso con peana: 70.6 kg
+- Peso con caja: 90.7 kg
+- Dimensión peana: 478.9 x 364.9 mm
+- Dimensiones sin peana (Ancho x Alto x Fondo mm.): 2185.1 x 1249.3 x 31.1
+- Dimensiones con peana (Ancho x Alto x Fondo mm.): 2185.1 x 1305.9 x 364.9
+- Dimensiones con caja (Ancho x Alto x Fondo mm.): 2370 x 1420 x 275
+- Soporte pared VESA compatible: 600x400
+
+### TQ85QN90FATXXC
+- EAN: 8806097067740
+- Pulgadas: 85"
+- Cms.: 214
+- Peso sin peana: 43.5 kg
+- Peso con peana: 49.9 kg
+- Peso con caja: 63.3 kg
+- Dimensión peana: 417.6 x 321.3 mm
+- Dimensiones sin peana (Ancho x Alto x Fondo mm.): 1892.2 x 1081.9 x 27.9
+- Dimensiones con peana (Ancho x Alto x Fondo mm.): 1892.2 x 1143.0 x 321.3
+- Dimensiones con caja (Ancho x Alto x Fondo mm.): 2141 x 1245 x 230
+- Soporte pared VESA compatible: 600x400
+
+### TQ75QN

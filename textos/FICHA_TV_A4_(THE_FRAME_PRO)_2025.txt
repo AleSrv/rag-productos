@@ -1,0 +1,41 @@
+Aquí tienes la información extraída del PDF en formato Markdown estructurado:
+
+# The Frame Pro
+
+N°1 del mundo en venta de TV durante 19 años¹
+
+## Tamaños disponibles
+- 85"
+- 75"
+- 65"
+
+## Características principales
+
+### Inteligencia Artificial que mejora tu día a día (Samsung Vision AI)
+- Accede a un mundo de posibilidades con solo un botón: subtítulos, detalles de tus artistas favoritos, control de tu casa...²
+
+### Hasta los detalles más escondidos (Quantum Matrix Technology Slim)
+- La tecnología Mini LED desvela los detalles escondidos en las escenas más oscuras.
+
+### ¡Tus obras y contenido, sin reflejos! (Galería de arte con Display Mate)
+- La luz no será un impedimento para disfrutar de más de 2.500 obras, tus fotos o tu serie favorita.³
+
+### Olvídate de los cables (One Connect Inalámbrico)
+- Olvídate de cualquier cable y guarda tus dispositivos hasta a 10m del TV.⁴
+
+## PANTONE™ Validated
+- ArtfulColor⁵
+- SkinTone™ Validated⁵
+
+## Imagen
+- Resolución: 4K
+- Contraste: Quantum Matrix Technology Edge
+- HDR (High Dynamic Range): Neo Quantum HDR
+- Ratio de refresco: 120 hercios (Hasta 144 hercios)
+- Pantalla Antirreflejos: Matte Display
+- Tecnología: Neo QLED
+- Color: 100% Volumen de Color
+- Color Booster: Pro
+- HDR10+: Adaptive/Gaming
+- HLG: Sí
+- Auto HDR Remastering:

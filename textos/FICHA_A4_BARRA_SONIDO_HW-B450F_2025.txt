@@ -1,0 +1,49 @@
+**Samsung HW-B450F**
+
+## Información General
+- **Número de canales**: 2.1
+- **Número de altavoces**: 3
+- **Potencia total altavoces**: 300 vatios
+- **Color**: Titan Black
+
+## Sonido
+- **Dolby**: Dolby 2ch
+- **Modo Amplificador de voz**: Sí
+- **Modo nocturno**: Sí
+- **Modos de sonido**: Surround Sound Expansion, Bass Boost, Game Pro, Adaptive Sound Lite, Standard, DTS Virtual:X
+- **LPCM**: 2ch
+
+## Altavoces
+- **Altavoces frontales**: Sí, 2
+- **Subwoofer inalámbrico incluido**: Sí
+
+## Formatos Soportados
+- **Formato decodificador**: MP3, AAC, OGG, FLAC, WAV, AIFF
+
+## Conectividad
+- **Salida HDMI**: 1
+- **HDMI ARC**: Sí
+- **HDMI CEC**: Sí
+- **Entrada óptica**: 1
+- **Bluetooth**: Sí
+- **Versión Bluetooth**: Bluetooth 4.2
+- **USB Music Playback**: Sí
+- **One Remote Control**: Sí
+- **Compatible kit altavoces traseros inalámbricos**: Sí, SWA-9250S
+
+## Accesorios
+- **Mando a distancia**: Sí
+- **Soporte de pared**: Sí
+
+## Dimensiones y Peso
+- **Modelo**: HW-B450F/ZF
+- **EAN**: 8806097057420
+- **Dimensiones netas (Ancho x Alto x Fondo)**: 858.8 x 59 x 75 mm
+- **Dimensiones subwoofer (Ancho x Alto x Fondo)**: 184.0 x 343.0 x 295.0 mm
+- **Dimensiones con caja (Ancho x Alto x Fondo)**: 925.0 x 445.0 x 235.0 mm
+- **Peso neto barra**: 2.2 kg
+- **Peso neto subwoofer**: 5.0 kg
+- **Peso con caja**: 9.0 kg
+
+## Notas Adicionales
+- Samsung N°1 mundial en ventas de barras de sonido durante 11 años, hasta diciembre de 2024. Fuente Future Consulting.

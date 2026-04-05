@@ -1,0 +1,58 @@
+# Samsung HW-B46CF
+
+## Características Generales
+- **Modelo:** HW-B46CF/ZF
+- **EAN:** 8806097455301
+- **Número de canales:** 2.1
+- **Número de altavoces:** 3
+- **Potencia total altavoces:** 300 vatios
+- **Color:** Titan Black
+
+## Audio
+- **Altavoz central:** Sí
+- **Subwoofer inalámbrico incluido:** Sí
+- **Dolby:** Dolby 2ch
+- **Modo Amplificador de voz:** Sí
+- **Modo nocturno:** Sí
+- **Modos de sonido:**
+    - Surround Sound Expansion
+    - Bass Boost
+    - Game Pro
+    - Adaptive Sound Lite
+    - Standard
+    - DTS Virtual:X
+- **LPCM:** 2ch
+- **Formatos de decodificación:**
+    - MP3
+    - AAC
+    - OGG
+    - FLAC
+    - WAV
+    - AIFF
+- **Tecnologías de sonido:**
+    - **Dolby Audio / DTS Virtual:X:** Sonido más preciso de alta resolución.
+    - **Bass Boost:** Potencia los bajos de tus canciones con solo un botón.
+    - **Adaptive Sound:** Un sonido adaptado a cada tipo de ambiente, escena y diálogo, gracias a la Inteligencia Artificial.
+
+## Conectividad
+- **Salida HDMI:** 1
+- **HDMI ARC:** Sí
+- **HDMI CEC:** Sí
+- **Entrada óptica:** 1
+- **Bluetooth:** Sí
+- **Versión Bluetooth:** Bluetooth 4.2
+- **USB Music Playback:** Sí
+- **One Remote Control:** Sí
+- **Compatible kit altavoces:** Sí, SWA-9250S
+
+## Dimensiones y Peso
+- **Dimensiones netas (barra de sonido):** 858.8 x 59 x 75 mm (Ancho x Alto x Fondo)
+- **Dimensiones subwoofer:** 184.0 x 343.0 x 295.0 mm (Ancho x Alto x Fondo)
+- **Dimensiones con caja:** 905 x 431 x 228 mm (Ancho x Alto x Fondo)
+- **Peso neto barra:** 1.8 kg
+- **Peso neto subwoofer:** 4.9 kg
+- **Peso con caja:** 8.5 kg
+
+## Accesorios
+- **Mando a distancia:** Sí
+- **Soporte de pared:** Sí

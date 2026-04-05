@@ -1,0 +1,85 @@
+Aquí tienes la ficha técnica del Samsung The Premiere 5, extraída del PDF:
+
+**The Premiere 5**
+**Modelo:** SP-LPF5DSAXXXE
+
+## Sistema de proyección
+- Resolución: Full HD
+- Enfoque: Automático
+- Escalado y movimiento: Sí
+- Tamaño de pantalla: 20" - 100"
+- Potencia lumen: 560
+- Rotación: Sí
+
+## Imagen
+- Procesador: NQP AI Processor
+- HDR (High Dynamic Range): Quantum HDR
+- HDR10+: Support
+- HLG (Hybrid Log Gamma): Sí
+- Vision Booster: Sí
+- Contraste: 1000:1 (Native)
+- Contrast Enhancer: Real Depth Enhancer
+- Motion Technology: Motion Xcelerator
+- Film Mode: Sí
+
+## Sonido
+- Dolby Atmos®: Dolby Virtual
+- Object Tracking Sound: Sí
+- Q-Symphony: Sí
+- Sound Output (RMS): 10 vatios
+- Tipo de altavoz: 2CH
+- Active Voice Amplifier: Sí, pro
+- Adaptive Sound: Sí, pro
+
+## Gaming
+- Auto Game Mode (ALLM): Sí
+- Game Motion Plus: Sí
+- Dynamic Black EQ: Sí
+- Sonido envolvente: Sí
+- Super Ultra Wide Game View: Sí
+- Mini map Auto detection: Sí
+- Hue Sync: Sí
+- HGIG: Sí
+- Gaming Hub: Sí
+
+## Diseño
+- Tipo de peana: Ajustable
+- Color de peana: Warm White
+
+## Smart TV Powered by Tizen
+- Sistema operativo: Tizen™
+- Asistente de voz: Bixby y Alexa
+- Compatible con Alexa: Sí, incluso con proyector apagado
+- TV Plus: Sí
+- Web Browser: Sí
+- SmartThings Hub / Matter Hub / IoT-Sensor Functionality: Sí
+- Quick Remote: Sí
+- Universal Guide: Sí
+- Multi Device Experience: TV to Mobile, Mobile to TV, TV initiate mirroring, Sound Mirroring, Wireless TV
+- Multi-View: Hasta 2 vídeos
+- Ambient Mode: Sí, plus
+- Acceso TV: Sí
+- Buds Auto Switch: Sí
+- Apple AirPlay: Sí
+- Modo luz ambiental: Sí
+
+## Conectividad
+- WiFi: Sí (WiFi5)
+- Bluetooth: Sí (BT5.2)
+- HDMI: 3
+- Anynet+ (HDMI-CEC): Sí
+- USB: 1 x USB-C
+
+## Mando
+- Remote Control: TM2361E
+
+## Modelo y Dimensiones
+- Modelo: SP-LPF5DSAXXXE
+- EAN: 8806095574660
+- Pulgadas: 100"
+- **Peso (kg.)**
+    - Con caja: 3.5
+    - Con peana: 2.3
+- **Dimensiones (Ancho x Alto x Fondo mm.)**
+    - Con caja: 240 x 309 x 182
+    - Con peana: 240 x 309 x 182

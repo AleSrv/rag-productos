@@ -1,0 +1,120 @@
+Aquí tienes la información técnica del televisor Samsung OLED S85F, estructurada en Markdown:
+
+# Samsung OLED S85F
+
+## Características Destacadas
+- Samsung N°1 del mundo en venta de TV durante 19 años¹
+- Tamaños disponibles: 83", 77", 65", 55"
+- Colores certificados PANTONE Validated: Los primeros TVs del mundo en recibir la validación de PANTONE: 2.140 colores y 110 tonos de piel.
+- TV gratis Samsung TV Plus: Más de 120 canales gratuitos y sin descargas que ofrecen contenido para todos los gustos.⁴
+
+## Samsung Vision AI
+- **Inteligencia Artificial que mejora la imagen y el sonido**:
+    - Disfruta de esa serie de los 80 como si la hubiesen grabado en 4K.
+    - La AI escala cualquier contenido optimizando imagen y sonido.²
+- **Inteligencia Artificial que mejora tu día a día**:
+    - Accede a un mundo de posibilidades con solo un botón: subtítulos, detalles de tus artistas favoritos, control de tu casa...³
+
+## Diseño
+- Ambient Mode: Sí
+- Contour: Sí
+
+## Vision AI
+- Live Translate: Sí
+- Click to Search: Sí
+
+## Imagen
+- Resolución: 4K
+- Contraste: Píxeles autoluminiscentes
+- HDR (High Dynamic Range): OLED HDR
+- Ratio de refresco: 120 hercios
+- Pantalla Antirreflejos: Sí
+- Tecnología: OLED
+- Color: Perceptional Color Mapping
+- HDR10+: Adaptive/Gaming
+- Auto HDR Remastering: Sí
+- Procesador: NQ4 AI Gen2 Processor (20 redes neuronales)
+- Ángulo de visión: Ultra Viewing Angle
+- Contrast Enhancer: Real Depth Enhancer
+- Picture Upscale: 4K AI Upscaling
+- Filmmaker Mode: Sí
+- AI Mode: Sí
+- ECO Sensor: Sí
+
+## Sonido
+- Dolby Atmos: Sí
+- Potencia: 20 vatios
+- Altavoces: 2 Ch
+- Q-Symphony: Sí
+- OTS (Object Tracking Sound): OTS Lite
+- Adaptive Sound: Sí, pro
+- Audio 360: Sí
+- Salida Audio Bluetooth: Dual
+
+## Smart TV Powered by Tizen
+- Multi View: 2 pantallas
+- Multi Control: Sí
+- Asistente de voz integrado: Bixby y Alexa
+- Asistente de voz compatible: Alexa y Google
+- Far-Field Voice Interaction: Sí, incluso con el TV apagado
+- Apple AirPlay: Sí
+- Workspace: TV como monitor externo inalámbrico
+- TV Plus: Sí
+- Universal Guide: Sí
+- Multi Device Experience: TV a Móvil, Móvil a TV, TV initiate mirroring, Sound Mirroring, Wireless TV On
+- SmartThings: Integrado
+- AI Energy Mode: Sí
+- Pet Care: Sí
+- Universal Gesture: Sí
+- Quick Remote: Sí
+- Tap View: Sí
+- Samsung Knox Security: Sí
+
+## Gaming
+- Motion Technology: Motion Xcelerator 120Hz
+- Super Ultra Wide Game View: Sí
+- Gaming Hub: Sí
+- AI Auto Game Mode: Sí
+- FreeSync: Freesync Premium
+
+## Conectividad
+- Transmisor Digital: DVB-T2CS2
+- WiFi/Bluetooth: WiFi 5/BT5.3
+- HDMI: 4 puertos
+- Transmisión de datos: HbbTV 2.0.4
+- USB: 2 x USB-A
+- Salida de Audio Digital (óptica): 1 Salida de audio digital
+- Entrada RF (Terrestre / Entrada Cable / Entrada satélite): 1/1(Common Use for Terrestrial)/1
+
+## Remote Controller
+- Modelo Remote Control: Solar con botón AI
+
+## Encuentra la pareja perfecta para tu TV (Soundbar Recommendations)
+- **Experto**:
+    - Sonido inteligente: HW-Q800F
+- **Aficionado**:
+    - Sonido surround: HW-QS700F
+- **Principiante**:
+    - Fina y potente: HW-S700D
+
+## Dimensiones y Peso (Modelos Específicos)
+
+### TQ83585FAEXXC
+- EAN: 8806097057475
+- Pulgadas: 83"
+- Cms: 209
+- Peso (kg.) Sin peana: 32.9
+- Peso (kg.) Con peana: 33.9
+- Peso (kg.) Con caja: 45.8
+- Dimensión peana: 1254.0 x 348.7
+- Dimensión peana reducida: 374.0 x 348.7
+- Dimensiones (Ancho x Alto x Fondo mm.) Sin peana: 1849.0 x 1059.0 x 34.9
+- Dimensiones (Ancho x Alto x Fondo mm.) Con peana: 1849.0 x 1129.5 x 348.7
+- Dimensiones (Ancho x Alto x Fondo mm.) Con caja: 2022 x 1200 x 183
+- Soporte pared VESA compatible: 400x300
+
+### TQ77S85FAEXXC
+- EAN: 8806097057529
+- Pulgadas: 77"
+- Cms: 194
+- Peso (kg.) Sin peana: 

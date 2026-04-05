@@ -1,0 +1,25 @@
+Aquí tienes la información técnica del Samsung Neo QLED QN70F, estructurada según tus reglas:
+
+**Modelo:** Neo QLED QN70F
+
+**Tamaños disponibles:**
+- 85"
+- 75"
+- 65"
+- 55"
+
+## Diseño
+- Diseño: AirSlim
+- Art Mode: Sí
+
+## Vision AI
+- Live Translate: Sí
+- Click to Search: Sí
+- Generative Wallpaper: Sí
+
+## Smart TV Powered by Tizen
+- Multi View: 2 pantallas
+- Multi Control: Sí
+- Asistente de voz integrado: Bixby y Alexa
+- Asistente de voz compatible: Alexa y Google
+- Far-Field Voice Interaction: Sí,

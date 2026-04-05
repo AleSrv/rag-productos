@@ -1,0 +1,58 @@
+# Samsung HW-B650F
+
+## Características Destacadas
+- **Q-Symphony:** Añade una barra a tu TV Samsung y disfruta de todos los altavoces. La Inteligencia Artificial se encargará de optimizar el sonido.
+- **Sonido que se adapta a tu posición (Dolby 5.1 / DTS Virtual:X):** Efecto surround que te permitirá disfrutar el sonido al colocarte en el centro de la acción.
+- **Configuración de altavoces:** 3.1 canales con 3 altavoces frontales y 1 subwoofer inalámbrico para potenciar los tonos graves al ritmo de las escenas.
+- **Sonido Inteligente (Adaptive Sound):** Un sonido adaptado a cada tipo de ambiente, escena y diálogo, gracias a la Inteligencia Artificial.
+- **Reconocimiento:** Samsung N°1 mundial en ventas de barras de sonido durante 11 años (hasta diciembre de 2024, fuente Future Consulting).
+
+## Características Generales
+- Modelo: HW-B650F/ZF
+- EAN: 8806097069225
+- Número de canales: 3.1
+- Número de altavoces: 4
+- Potencia total altavoces: 370 vatios
+- Color: Black
+
+## Altavoces
+- Altavoz central: Sí
+- Subwoofer inalámbrico incluido: Sí
+
+## Sonido
+- Dolby: Dolby 5.1ch
+- Modo Amplificador de voz: Sí
+- Modo nocturno: Sí
+- Modos de sonido: Bass Boost, Surround Sound Expansion, Game, Adaptive Sound, DTS Virtual:X, Standard
+- LPCM: 2ch
+
+## Vídeo
+- 4K Video Pass: No
+- HDR: No
+
+## Formato Decodificador
+- Formato decodificador: MP3, AAC, OGG, FLAC, WAV, AIFF
+
+## Conectividad
+- Entrada HDMI: 1
+- Salida HDMI: 1
+- HDMI ARC: Sí
+- HDMI CEC: Sí
+- Entrada óptica: 1
+- Bluetooth: Sí
+- Versión Bluetooth: Bluetooth 4.2
+- USB Music Playback: Sí
+- One Remote Control: Sí
+- Compatible kit altavoces traseros inalámbricos: Sí, SWA-9250S
+
+## Accesorios
+- Mando a distancia: Sí
+- Soporte de pared: Sí
+
+## Dimensiones y Peso
+- **Dimensiones netas (Ancho x Alto x Fondo):** 1030.0 x 59.4 x 105.0 mm
+- **Dimensiones subwoofer (Ancho x Alto x Fondo):** 184.0 x 343.0 x 295.0 mm
+- **Dimensiones con caja (Ancho x Alto x Fondo):** 925.0 x 445.0 x 235.0 mm
+- **Peso neto barra:** 2.2 kg
+- **Peso neto subwoofer:** 5.0 kg
+- **Peso con caja:** 9.0 kg

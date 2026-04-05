@@ -1,0 +1,49 @@
+Aquí tienes la información técnica del televisor Samsung Neo QLED QN74F, extraída y estructurada según tus indicaciones:
+
+**Modelo:** Neo QLED QN74F
+
+**Validación de Color:**
+- PANTONE™ Validated
+- PANTONE™ SkinTone™ Validated
+- Descubre el auténtico color validado por PANTONE. Como un símbolo de fidelidad al color en la industria, "PANTONE Validated" significa la capacidad de reproducir 2.030 colores y 110 tonos de piel. Es el primer TV que recibe esta validación. Frente a TVs Samsung sin validación Pantone.
+
+**Características Destacadas (Marketing):**
+- **Tamaños disponibles:** 85", 75", 65", 55"
+- **Inteligencia Artificial que mejora la imagen y el sonido:** Disfruta de series como si se hubiesen grabado en 4K. La AI escala cualquier contenido optimizando imagen y sonido.
+- **Inteligencia Artificial que mejora tu día a día (Samsung Vision AI):** Accede a un mundo de posibilidades con solo un botón: subtítulos, detalles de tus artistas favoritos, control de tu casa.
+- **Quantum Matrix Technology Slim:** La tecnología Mini LED desvela los detalles escondidos en las escenas más oscuras.
+- **Entretenimiento ilimitado:** Más de 500 canales (noticias, deportes, entretenimiento y mucho más).
+
+## Imagen
+- **Resolución:** 4K
+- **Contraste:** Quantum Matrix Technology Slim
+- **HDR (High Dynamic Range):** Neo Quantum HDR
+- **Ratio de refresco:** 120 hercios
+- **Tecnología:** Mini LED
+- **Color:** 100% Volumen de Color con Quantum Dot
+- **Color Booster:** Pro
+- **HDR10+:** Adaptive/Gaming
+- **Auto HDR Remastering:** Auto HDR Remastering
+- **Procesador:** NQ4 AI Gen2 Processor, 20 redes neuronales
+- **Ángulo de visión:** Wide Viewing Angle
+- **Micro Dimming:** Ultimate UHD Dimming
+- **Contrast Enhancer:** Real Depth Enhancer
+- **Picture Upscale:** 4K AI Upscaling
+- **Filmmaker Mode:** Sí
+- **EyeComfort Mode:** Sí
+- **AI Mode:** Sí
+- **ECO Sensor:** Sí
+
+## Sonido
+- **Potencia:** 20 vatios
+- **Altavoces:** 2 Ch
+- **Q-Symphony:** Sí
+- **OTS (Object Tracking Sound):** OTS Lite
+- **AVA (Active Voice Amplifier):** AVA Pro
+- **Adaptive Sound:** Sí, pro
+- **Audio 360:** Sí
+- **Salida Audio Bluetooth:** Dual
+
+## Diseño
+- **Diseño:** AirSlim
+-

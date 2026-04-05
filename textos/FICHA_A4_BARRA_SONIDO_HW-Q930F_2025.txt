@@ -1,0 +1,81 @@
+# Samsung Serie Q HW-Q930F
+
+## Características Generales
+- **Modelo:** HW-Q930F/ZF
+- **Número de canales:** 9.1.4
+- **Número de altavoces:** 17
+- **Potencia total altavoces:** 580 vatios
+- **Color:** Titan Black
+- **Reconocimiento:** Samsung N°1 mundial en ventas de barras de sonido durante 11 años¹
+
+## Sonido
+- **Dolby Atmos® Inalámbrico:** Disfruta tus películas y música con sonido Dolby Atmos® sin necesidad de cable HDMI.
+- **Dolby:** Dolby Digital Plus, Dolby True HD, ATMOS, Dolby 5.1ch, ATMOS Music
+- **Modo Amplificador de voz:** Sí
+- **Modo nocturno:** Sí
+- **SpaceFit Sound Pro:** Sí
+    - Adapta el sonido gracias a los sensores de la barra que analizan el entorno y reajustan el audio de los contenidos.
+- **Active Voice Amplifier Pro:** Sí
+- **Modos de sonido:** Surround Sound expansion, Game Pro, Standard, Adaptive Sound
+- **LPCM:** Multi canal
+- **Moderate Bass:** Sí
+- **Q-Symphony:** Sí
+    - Añade una barra a tu TV Samsung y disfruta de todos los altavoces. La Inteligencia Artificial se encargará de optimizar el sonido.
+
+## Altavoces
+- **Configuración:** 9.1.4 canales
+    - Sonido envolvente gracias a 9 altavoces de salida, 1 subwoofer para potenciar los graves y 4 canales superiores que intensifican los contenidos Dolby Atmos®.
+- **Altavoz central:** Sí
+- **Altavoz superior:** Sí
+- **Altavoces laterales:** Sí
+- **Altavoz frontal:** Sí
+- **Subwoofer inalámbrico incluido:** Sí
+- **Altavoces traseros inalámbricos incluidos:** Sí
+- **Altavoz trasero multiposición:** Sí
+
+## Conectividad
+- **Entrada HDMI:** 1
+- **Salida HDMI:** 1
+- **HDMI ARC:** Sí (eARC)
+- **HDMI CEC:** Sí
+- **Entrada óptica:** 1
+- **Bluetooth:** Sí
+- **Versión Bluetooth:** Bluetooth 5.3
+- **WiFi:** Sí
+- **One Remote Control:** Sí
+- **SmartThings App:** Sí
+- **Dolby Atmos inalámbrico:** Sí
+- **Tap Sound:** Sí
+- **Google Cast:** Sí
+- **Spotify Connect:** Sí
+- **Roon Service:** Roon Ready
+- **AirPlay:** Sí
+- **Tidal Connect:** Sí
+
+## Asistente de Voz
+- **Compatible con Google Home:** Sí
+- **Alexa:** Sí
+
+## Características de Vídeo
+- **4K Video Pass:** 60 hercios
+- **HDR:** HDR10+
+
+## Formato Decodificador
+- **Formato decodificador:** MP3 / AAC / OGG / FLAC / WAV / ALAC / AIFF
+
+## Accesorios
+- **Mando a distancia:** Sí
+- **Soporte de pared:** Sí
+
+## Dimensiones y Peso
+- **EAN:** 8806097108931
+- **Dimensiones netas (Ancho x Alto x Fondo):** 1110.7 x 60.4 x 120.0 mm
+- **Dimensiones subwoofer (Ancho x Alto x Fondo):** 249.0 x 251.8 x 249.0 mm
+- **Dimensiones con caja (Ancho x Alto x Fondo):** 1187.0 x 412.0 x 296.0 mm
+- **Peso neto barra:** 5.3 kg
+- **Peso neto subwoofer:** 7.2 kg
+- **Peso con caja:** 20.0 kg
+
+## Notas Adicionales
+- ¹Samsung N°1 mundial en ventas de barras de sonido durante 11 años, hasta diciembre de 2024. Fuente Future Consulting.
+- Ficha de producto sujeta a posibles cambios.

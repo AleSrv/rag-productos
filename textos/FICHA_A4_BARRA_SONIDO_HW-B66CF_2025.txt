@@ -1,0 +1,55 @@
+# Samsung Serie B HW-B66CF
+
+## Características Generales
+- Número de canales: 3.1
+- Número de altavoces: 4
+- Potencia total altavoces: 370 vatios
+- Color: Black
+
+## Sonido
+- Q-Symphony: Sí (Añade una barra a tu TV Samsung y disfruta de todos los altavoces. La Inteligencia Artificial se encargará de optimizar el sonido.)
+- Dolby: Dolby 5.1ch
+- DTS Virtual:X: Sí (Efecto surround que te permitirá disfrutar el sonido al colocarte en el centro de la acción.)
+- Modo Amplificador de voz: Sí
+- Modo nocturno: Sí
+- Modos de sonido: Bass Boost, Surround Sound Expansion, Game, Adaptive Sound, DTS Virtual:X, Standard
+- LPCM: 2ch
+- Adaptive Sound: Sí (Un sonido adaptado a cada tipo de ambiente, escena y diálogo, gracias a la Inteligencia Artificial.)
+
+## Altavoces
+- Altavoz central: Sí
+- Altavoz frontal: Sí (3 altavoces frontales)
+- Subwoofer inalámbrico incluido: Sí (1 subwoofer inalámbrico)
+
+## Conectividad
+- Entrada HDMI: 1
+- Salida HDMI: 1
+- HDMI ARC: Sí
+- HDMI CEC: Sí
+- Entrada óptica: 1
+- Bluetooth: Sí
+- Versión Bluetooth: Bluetooth 4.2
+- USB Music Playback: Sí
+- One Remote Control: Sí
+- Compatible kit altavoces traseros inalámbricos: Sí, SWA-9250S
+
+## Formatos de Decodificación
+- Formato decodificador: MP3, AAC, OGG, FLAC, WAV, AIFF
+
+## Accesorios
+- Mando a distancia: Sí
+- Soporte de pared: Sí
+
+## Dimensiones y Peso
+- Modelo: HW-B66CF/ZF
+- EAN: 8806097453499
+- Dimensiones netas (Ancho x Alto x Fondo): 860.0 x 59.4 x 75.0 mm
+- Dimensiones subwoofer (Ancho x Alto x Fondo): 184.0 x 343.0 x 295.0 mm
+- Dimensiones con caja (Ancho x Alto x Fondo): 925.0 x 445.0 x 235.0 mm
+- Peso neto barra: 2.2 kg
+- Peso neto subwoofer: 5.0 kg
+- Peso con caja: 7.2 kg
+
+## Notas Adicionales
+- Samsung N°1 mundial en ventas de barras de sonido durante 11 años, hasta diciembre de 2024. Fuente Future Consulting.
+- Ficha de producto sujeta a posibles cambios.

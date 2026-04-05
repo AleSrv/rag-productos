@@ -1,0 +1,74 @@
+Aquí tienes toda la información extraída del PDF en formato Markdown estructurado:
+
+# Samsung HD H5000F (TU32H5005FKXXC)
+
+## Información General
+- Pulgadas: 32"
+- Cms.: 80
+- Samsung ocupa el puesto número 1 mundial como marca de televisores más vendida durante 19 años¹.
+
+## Diseño
+- Diseño: Slim
+
+## Imagen
+- Resolución: HD
+- Contraste: Mega Contrast
+- HDR (High Dynamic Range): HDR
+- Ratio de refresco: 60 hercios
+- Tecnología: LED
+- Color: PurColor
+- HDR10+: Sí
+- Procesador: Procesador Hyper Real
+- Micro Dimming: Dimming Pro
+- Contrast Enhancer: Sí
+- Filmmaker Mode: Sí
+- Más contraste: Verás todos los detalles de cada escena sin importar si son luminosas u oscuras.
+
+## Sonido
+- Potencia: 10 vatios
+- Altavoces: 2 Ch
+- Q-Symphony: Sí
+- OTS (Object Tracking Sound): OTS Lite
+- Adaptive Sound: Sí
+- Salida Audio Bluetooth: Dual
+- El sonido que sigue a la acción: Un sonido envolvente 3D te permitirá estar inmerso completamente en la acción.
+
+## Smart TV Powered by Tizen
+- Asistente de voz integrado: Bixby
+- Asistente de voz compatible: Alexa y Google
+- Apple AirPlay: Sí
+- Support: Sí
+- TV Plus: Sí
+- Universal Guide: Sí
+- Multi Device Experience: Móvil a TV, Sound Mirroring, Wireless TV On
+- Samsung Knox Security: Sí, reforzado
+- Más de 500 canales gratuitos: Contenido para todos los gustos sin descargas: noticias, deportes, entretenimiento y mucho más.²
+- Todos tus datos protegidos: Contraseñas, datos bancarios e información personal protegido por Samsung Knox.³
+
+## Conectividad
+- Transmisor Digital: DVB-T2C
+- WiFi/Bluetooth: WiFi 5E/BT2
+- HDMI: 2 puertos
+- Transmisión de datos: HbbTV 2.0.3
+- USB: 1 x USB-A
+- Entrada RF (Terrestre / Entrada Cable / Entrada satélite): 1/1 (Common Use for Terrestrial)/1
+
+## Control Remoto
+- Modelo Remote Control: Básico con numeración
+
+## Dimensiones y Peso
+- Modelo: TU32H5005FKXXC
+- EAN: 8806095913957
+- Peso sin peana: 3.6 kg
+- Peso con peana: 3.8 kg
+- Peso con caja: 4.9 kg
+- Dimensión peana: 610.6 x 150.2 mm
+- Dimensiones sin peana (Ancho x Alto x Fondo): 733.2 x 438.9 x 72.2 mm
+- Dimensiones con peana (Ancho x Alto x Fondo): 733.2 x 451.8 x 150.2 mm
+- Dimensiones con caja (Ancho x Alto x Fondo): 800 x 500 x 114 mm
+- Soporte pared VESA compatible: 200x200
+
+## Notas
+- ¹Samsung ocupa el puesto número 1 mundial como marca de televisores más vendida durante 19 años. Fuente Omdia, febrero de 2025. Los resultados no constituyen un respaldo por parte de Samsung, el uso de los resultados es bajo su propia responsabilidad.
+- ²Los canales están sujetos a cambios sin notificación. Dentro de los 500 canales, hay algunos que requieren la descarga de la aplicación y una cuenta Samsung. La interfaz de usuario está sujeta a cambios sin previo aviso. Pueden aparecer anuncios en Samsung TV Plus. Disponible de forma gratuita en televisores inteligentes Samsung desde 2016.
+- ³Samsung Knox Security se aplica a los televisores Samsung con tecnología Tizen®, lanzados desde 2015. Se requiere la última actualización de software.

@@ -1,0 +1,89 @@
+Aquí tienes la información extraída del PDF en formato Markdown:
+
+## Mensaje Principal
+- El tamaño sí importa, la distancia no
+
+## Distancias de Visualización Recomendadas
+- **75"**: 2.3m
+- **85"**: 2.6m
+- **98"**: 3m
+- Para un TV de 98" solo necesitas 40cm más de distancia que para un 85".
+
+## Características Generales de los TVs Samsung de Gran Tamaño
+
+### Imagen
+- **TV mejorado con IA**:
+    - La Inteligencia Artificial configura automáticamente la imagen en función del contenido.
+    - Optimiza el consumo de energía.
+- **GRAN calidad**:
+    - Imágenes mejoradas y reducción de ruido por Inteligencia Artificial.
+    - Optimiza las escenas para una gran pantalla.
+- **Procesador**: Gracias a la Inteligencia Artificial, el procesador mejora la imagen incluso en las pulgadas más grandes.
+
+### Sonido
+- **El mejor sonido con IA**:
+    - Con más altavoces que nunca, la IA analiza cada escena para ofrecerte un sonido insuperable.
+- **Escucha todos los altavoces (Q-Symphony)**:
+    - Disfruta todos los altavoces a la vez.
+    - Combina el sonido del TV con la barra de sonido sin anular ninguno.
+
+### Smart TV
+- **El mejor Smart TV**:
+    - Contenidos: Más de 100 canales gratuitos y en exclusiva.
+    - Juegos en la nube.
+    - Todos tus dispositivos conectados.
+
+### Gaming
+- **Gana todas las partidas**:
+    - Juega a 120 hercios en 4K u 8K.
+    - Juego fluido y sin cortes.
+
+## Modelos de TVs Samsung de 98"
+
+### Neo QLED 8K QN990C
+- **Resolución**: 8K
+- **Procesador**: Neuronal 8K con IA
+- **HDR**: Neo Quantum HDR 8K Pro
+- **Q-Symphony**: Sí
+- **Adaptive Sound**: Pro
+- **OTS (Object Tracking Sound)**: OTS Pro
+- **Smart TV**: Integrado
+- **SmartThings**: Integrado
+- **Tasa de refresco**: 4K 120 hercios
+- **Gaming Hub**: Sí
+
+### Neo QLED QN90D
+- **Resolución**: 4K
+- **Procesador**: NQ4 AI Gen2
+- **HDR**: Neo Quantum HDR+
+- **Q-Symphony**: Sí
+- **Adaptive Sound**: Plus
+- **OTS (Object Tracking Sound)**: OTS+
+- **Smart TV**: Integrado
+- **SmartThings**: Integrado
+- **Tasa de refresco**: 4K 120 hercios
+- **Gaming Hub**: Sí
+
+### QLED Q80C
+- **Resolución**: 4K
+- **Procesador**: Neuronal 4K con IA
+- **HDR**: Quantum HDR+
+- **Q-Symphony**: Sí
+- **Adaptive Sound**: Plus
+- **OTS (Object Tracking Sound)**: OTS Lite
+- **Smart TV**: Integrado
+- **SmartThings**: Integrado
+- **Tasa de refresco**: 4K 120 hercios
+- **Gaming Hub**: Sí
+
+### Crystal UHD DU9005
+- **Resolución**: 4K
+- **Procesador**: Crystal 4K
+- **HDR**: HDR
+- **Q-Symphony**: Sí
+- **Adaptive Sound**: Sí
+- **OTS (Object Tracking Sound)**: OTS Lite
+- **Smart TV**: Integrado
+- **SmartThings**: Integrado
+- **Tasa de refresco**: 4K 120 hercios
+- **Gaming Hub**: Sí

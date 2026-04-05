@@ -1,0 +1,187 @@
+Aquí tienes la información técnica del televisor Samsung OLED S90F, estructurada en Markdown:
+
+# Samsung OLED S90F
+
+## Modelos Disponibles
+- 83"
+- 77"
+- 65"
+- 55"
+- 48"
+
+## Características Destacadas (Página 1)
+
+### Samsung Vision AI
+- **Inteligencia Artificial que mejora la imagen y el sonido:**
+    - Disfruta de series de los 80 como si las hubiesen grabado en 4K.
+    - La AI escala cualquier contenido optimizando imagen y sonido.²
+- **Inteligencia Artificial que mejora tu día a día:**
+    - Accede a un mundo de posibilidades con solo un botón: subtítulos, detalles de tus artistas favoritos, control de tu casa.³
+- **Gana todas las partidas:**
+    - Motion Xcelerator 144Hz.
+    - Juega a 144 hercios en 4K.
+    - El TV no será un problema para que ganes la partida.
+    - Juega de manera fluida y sin cortes.⁴
+- **Colores certificados:**
+    - PANTONE Validated.
+    - Los primeros TVs del mundo en recibir la validación de PANTONE: 2.140 colores y 110 tonos de piel.⁵
+
+## Especificaciones Técnicas Detalladas
+
+### Imagen
+- **Resolución:** Píxeles autoluminiscentes
+- **Contraste:** OLED HDR+ (48" OLED HDR)
+- **HDR (High Dynamic Range):** OLED HDR+ (48" OLED HDR)
+- **Ratio de refresco:** 120 hercios
+- **Pantalla Antirreflejos:** Sí
+- **Tecnología:** OLED
+- **Color:** Perceptional Color Mapping
+- **HDR10+:** Adaptive/Gaming
+- **Auto HDR Remastering:** Auto HDR Remastering pro
+- **Procesador:** NQ4 AI Gen3 Processor, 128 redes neuronales
+- **Ángulo de visión:** Ultra Viewing Angle
+- **Contrast Enhancer:** Real Depth Enhancer
+- **Picture Upscale:** 4K AI Upscaling Pro
+- **Filmmaker Mode:** Sí
+- **AI Mode:** Sí
+- **ECO Sensor:** Sí
+
+### Sonido
+- **Dolby Atmos:** Sí
+- **Potencia:** 40 vatios
+- **Altavoces:** 2.1 Ch
+- **Q-Symphony:** Sí
+- **OTS (Object Tracking Sound):** OTS Lite
+- **Adaptive Sound:** Sí, pro
+- **Audio 360:** Sí
+- **Salida Audio Bluetooth:** Dual
+
+### Gaming
+- **Motion Technology:** Motion Xcelerator 144 hercios
+- **Super Ultra Wide Game View:** Sí
+- **Gaming Hub:** Sí
+- **AI Auto Game Mode:** Sí
+- **FreeSync:** Freesync Premium
+
+### Diseño
+- **Diseño:** LaserSlim
+- **Ambient Mode:** Sí
+
+### Vision AI
+- **Live Translate:** Sí
+- **Click to Search:** Sí
+
+### Smart TV Powered by Tizen
+- **Multi View:** 2 pantallas
+- **Multi Control:** Sí
+- **Asistente de voz integrado:** Bixby y Alexa
+- **Asistente de voz compatible:** Alexa y Google
+- **Far-Field Voice Interaction:** Sí, incluso con el TV apagado
+- **Apple AirPlay:** Sí
+- **Workspace:** TV como monitor externo inalámbrico
+- **TV Plus:** Sí
+- **Universal Guide:** Sí
+- **Multi Device Experience:** TV a Móvil, Móvil a TV, TV initiate mirroring, Sound Mirroring, Wireless TV On
+- **SmartThings:** Integrado
+- **AI Energy Mode:** Sí
+- **Pet Care:** Sí
+- **Universal Gesture:** Sí
+- **Quick Remote:** Sí
+- **Tap View:** Sí
+- **Samsung Knox Security:** Sí
+
+### Conectividad
+- **Transmisor Digital:** DVB-T2CS2 x 2
+- **WiFi/Bluetooth:** WiFi 5/BT5.3
+- **HDMI:** 4 puertos
+- **Transmisión de datos:** HbbTV 2.0.4
+- **USB:** 2 x USB-A
+- **Salida de Audio Digital (óptica):** 1 Salida de audio digital
+- **Entrada RF (Terrestre / Entrada Cable / Entrada satélite):** 1/1 (Common Use for Terrestrial)/2
+
+### Remote Controller
+- **Modelo Remote Control:** Solar con botón AI
+
+## Encuentra la pareja perfecta para tu TV (Barras de Sonido)
+- **Experto (Sonido inteligente):** HW-Q930F
+- **Aficionado (Sonido surround):** HW-QS700F
+- **Principiante (Fina y potente):** HW-S800D
+
+## Dimensiones y Peso (S90F)
+
+### TQ83S90FAEXXC
+- **Pulgadas:** 83"
+- **Cms:** 209
+- **Peso (kg.)**
+    - **Sin peana:** 37.6
+    - **Con peana:** 39.4
+    - **Con caja:** 52.1
+- **Dimensión peana:** 366.0 x 359.0
+- **Dimensiones (Ancho x Alto x Fondo mm.)**
+    - **Sin peana:** 1851.0 x 1062.8 x 44.9
+    - **Con peana:** 1851.0 x 1133.7 x 359.0
+    - **Con caja:** 2024 x 1234 x 189
+- **Soporte pared VESA compatible:** 400x300
+
+### TQ77S90FAEXXC
+- **Pulgadas:** 77"
+- **Cms:** 194
+- **Peso (kg.)**
+    - **Sin peana:** 32.4
+    - **Con peana:** 34.2
+    - **Con caja:** 44.4
+- **Dimensión peana:** 366.0 x 359.0
+- **Dimensiones (Ancho x Alto x Fondo mm.)**
+    - **Sin peana:** 1718.5 x 987.6 x 44.9
+    - **Con peana:** 1718.5 x 1058.6 x 359.0
+    - **Con caja:** 1885 x 1154 x 180
+- **Soporte pared VESA compatible:** 400x300
+
+### TQ65S90FAEXXC
+- **Pulgadas:** 65"
+- **Cms:** 163
+- **Peso (kg.)**
+    - **Sin peana:** 21.2
+    - **Con peana:** 22.5
+    - **Con caja:** 29.9
+- **Dimensión peana:** 366.0 x 265.2
+- **Dimensiones (Ancho x Alto x Fondo mm.)**
+    - **Sin peana:** 1444.3 x 831.7 x 39.9
+    - **Con peana:** 1444.3 x 896.7 x 265.2
+    - **Con caja:** 1617 x 950 x 160
+- **Soporte pared VESA compatible:** 300x200
+
+### TQ55S90FAEXXC
+- **Pulgadas:** 55"
+- **Cms:** 138
+- **Peso (kg.)**
+    - **Sin peana:** 14.6
+    - **Con peana:** 15.9
+    - **Con caja:** 21.4
+- **Dimensión peana:** 366.0 x 265.2
+- **Dimensiones (Ancho x Alto x Fondo mm.)**
+    - **Sin peana:** 1225.4 x 708.6 x 39.9
+    - **Con peana:** 1225.4 x 773.6 x 265.2
+    - **Con caja:** 1385 x 832 x 153
+- **Soporte pared VESA compatible:** 300x200
+
+### TQ48S90FAEXXC
+- **Pulgadas:** 48"
+- **Cms:** 120
+- **Peso (kg.)**
+    - **Sin peana:** 10.6
+    - **Con peana:** 11.9
+    - **Con caja:** 16.5
+- **Dimensión peana:** 366.0 x 265.2
+- **Dimensiones (Ancho x Alto x Fondo mm.)**
+    - **Sin peana:** 1069.3 x 619.9 x 39.6
+    - **Con peana:** 1069.3 x 685.9 x 265.2
+    - **Con caja:** 1202 x 748 x 143
+- **Soporte pared VESA compatible:** 300x200
+
+## Notas al pie
+¹ Samsung ocupa el puesto número 1 mundial como marca de televisores más vendida durante 19 años. Fuente Omdia, febrero de 2025. Los resultados no constituyen un respaldo por parte de Samsung, el uso de los resultados es bajo su propia responsabilidad.
+² La experiencia de visualización puede variar de acuerdo con los tipos de contenido y formato. Necesario iniciar sesión en Samsung Account y estar conectado a internet.
+³ Necesario iniciar sesión en Samsung Account y estar conectado a internet.
+⁴ 4K 144 hercios solo está disponible con contenidos conectados al PC o consola. Requiere determinada tarjeta gráfica en el PC y el rendimiento puede variar. Comparado con TVs Samsung de gamas anteriores.
+⁵ Descubre el auténtico color validado por PANTONE. Como un símbolo de fidelidad al color en la industria, "PANTONE Validated" significa la capacidad de reproducir 2.030 colores y 110 tonos de piel. Es el primer TV que recibe esta validación. Frente a TVs Samsung sin validación Pantone.

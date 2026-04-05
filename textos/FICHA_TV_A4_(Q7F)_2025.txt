@@ -1,0 +1,189 @@
+Aquí tienes la información extraída del PDF en formato Markdown estructurado:
+
+# Samsung QLED Q7F
+
+## Características Destacadas
+
+- **N°1 del mundo** en venta de TV durante 19 años¹
+- **Inteligencia Artificial que mejora la imagen y el sonido**: La AI escala cualquier contenido optimizando imagen y sonido.²
+- **Inteligencia Artificial que mejora tu día a día Samsung Vision AI**: Accede a un mundo de posibilidades con solo un botón: subtítulos, detalles de tus artistas favoritos, control de tu casa...³
+- **El auténtico Quantum dot**: 100% Volumen de color con Quantum dot. 100% del color a cualquier nivel de brillo... y ¡sin cadmio!⁴
+- **Más de 500 canales**: Entretenimiento ilimitado. Contenido para todos los gustos: noticias, deportes, entretenimiento y mucho más.⁵
+- **PANTONE™ Validated** y **PANTONE™ SkinTone™ Validated**: Capacidad de reproducir 2.030 colores y 110 tonos de piel. Es el primer TV que recibe esta validación. Frente a TVs Samsung sin validación Pantone.
+
+## Especificaciones Técnicas
+
+### Imagen
+- Resolución: 4K
+- Contraste: Mega Contrast
+- HDR (High Dynamic Range): Quantum HDR
+- Ratio de refresco: 60 hercios
+- Tecnología: QLED
+- Color: 100% Volumen de Color con Quantum Dot
+- Color Booster: Pro
+- HDR10+: Compatible
+- Procesador: Q4 AI Processor
+- Micro Dimming: Supreme UHD Dimming
+- Contrast Enhancer: Sí
+- Picture Upscale: 4K Upscaling
+- Filmmaker Mode: Sí
+- ECO Sensor: Sí
+
+### Sonido
+- Potencia: 20 vatios
+- Altavoces: 2 Ch
+- Q-Symphony: Sí
+- OTS (Object Tracking Sound): OTS Lite
+- Adaptive Sound: Sí
+- Salida Audio Bluetooth: Dual
+
+### Gaming
+- Motion Technology: Motion Xcelerator 60 hercios
+- Super Ultra Wide Game View: Sí
+- Gaming Hub: Sí
+- AI Auto Game Mode: Sí
+
+### Diseño
+- Diseño: Slim Look
+- Art Mode: Sí
+
+### Vision AI
+- Click to Search: Sí
+- Generative Wallpaper: Sí
+- Multi View: 2 pantallas
+- Multi Control: Sí
+- Asistente de voz integrado: Bixby y Alexa
+- Asistente de voz compatible: Alexa y Google
+- Apple AirPlay: Sí
+
+### Smart TV Powered by Tizen
+- Workspace: TV como monitor externo inalámbrico
+- TV Plus: Sí
+- Universal Guide: Sí
+- Multi Device Experience: Móvil a TV, Sound Mirroring, Wireless TV On
+- SmartThings: Integrado
+- AI Energy Mode: Sí
+- Universal Gesture: Sí
+- Quick Remote: Sí
+- Tap View: Sí
+- Samsung Knox Security: Sí, reforzado
+
+### Conectividad
+- Transmisor Digital: DVB-T2CS2
+- WiFi/Bluetooth: WiFi 5/BT5.3
+- HDMI: 3 puertos
+- Transmisión de datos: HbbTV 2.0.4
+- USB: 1 x USB-A
+- Entrada RF (Terrestre / Entrada Cable / Entrada satélite): 1/1(Common Use for Terrestrial)/1
+
+### Remote Controller
+- Modelo Remote Control: Solar con botón AI
+
+## Audio Complementario (Soundbars)
+- **Experto**
+    - Sonido inteligente: HW-Q600F
+- **Aficionado**
+    - Fina y potente: HW-S700D
+- **Principiante**
+    - Sonido surround: HW-B650F
+
+## Dimensiones y Peso por Modelo (Q7F)
+
+### TQ85Q7FAAUXXC (85")
+- EAN: 8806097122593
+- Pulgadas: 85"
+- Cms.: 214
+- Peso (kg.)
+    - Sin peana: 32.5
+    - Con peana: 33.1
+    - Con caja: 45.5
+- Dimensión peana: 1415.3 x 359
+- Dimensión peana reducida: 367.3 x 359
+- Dimensiones (Ancho x Alto x Fondo mm.)
+    - Sin peana: 1901.2 x 1088.4 x 61.4
+    - Con peana: 1901.2 x 1132.3 x 359
+    - Con caja: 2075 x 1200 x 171
+- Soporte pared VESA compatible: 600x400
+
+### TQ75Q7FAAUXXC (75")
+- EAN: 8806097122586
+- Pulgadas: 75"
+- Cms.: 189
+- Peso (kg.)
+    - Sin peana: 25.3
+    - Con peana: 25.8
+    - Con caja: 32.0
+- Dimensión peana: 1253.6 x 325
+- Dimensión peana reducida: 346.6 x 325
+- Dimensiones (Ancho x Alto x Fondo mm.)
+    - Sin peana: 1677.5 x 962.4 x 61.1
+    - Con peana: 1677.5 x 1006.3 x 325
+    - Con caja: 1822 x 1100 x 160
+- Soporte pared VESA compatible: 400x400
+
+### TQ65Q7FAAUXXC (65")
+- EAN: 8806097124153
+- Pulgadas: 65"
+- Cms.: 163
+- Peso (kg.)
+    - Sin peana: 16.7
+    - Con peana: 17.1
+    - Con caja: 23.8
+- Dimensión peana: 1025.5 x 267.4
+- Dimensión peana reducida: 303.9 x 267.4
+- Dimensiones (Ancho x Alto x Fondo mm.)
+    - Sin peana: 1452.9 x 834 x 60.6
+    - Con peana: 1452.9 x 879.5 x 267.4
+    - Con caja: 1590 x 932 x 148
+- Soporte pared VESA compatible: 400x300
+
+### TQ55Q7FAAUXXC (55")
+- EAN: 8806097122579
+- Pulgadas: 55"
+- Cms.: 138
+- Peso (kg.)
+    - Sin peana: 11.3
+    - Con peana: 11.6
+    - Con caja: 16.7
+- Dimensión peana: 824.6 x 237
+- Dimensión peana reducida: 253.2 x 237
+- Dimensiones (Ancho x Alto x Fondo mm.)
+    - Sin peana: 1234.1 x 710.8 x 60.3
+    - Con peana: 1234.1 x 758 x 237
+    - Con caja: 1369 x 819 x 127
+- Soporte pared VESA compatible: 200x200
+
+### TQ50Q7FAAUXXC (50")
+- EAN: 8806097122258
+- Pulgadas: 50"
+- Cms.: 125
+- Peso (kg.)
+    - Sin peana: 9.2
+    - Con peana: 9.5
+    - Con caja: 14.3
+- Dimensión peana: 750.6 x 237
+- Dimensión peana reducida: N/A
+- Dimensiones (Ancho x Alto x Fondo mm.)
+    - Sin peana: 1120.3 x 647 x 60
+    - Con peana: 1120.3 x 694 x 237
+    - Con caja: 1255 x 765 x 127
+- Soporte pared VESA compatible: 200x200
+
+### TQ43Q7FAAUXXC (43")
+- EAN: 8806097122241
+- Pulgadas: 43"
+- Cms.: 108
+- Peso (kg.)
+    - Sin peana: 7.1
+    - Con peana: 7.4
+    - Con caja: 11.0
+- Dimensión peana: 674.9 x 191
+- Dimensión peana reducida: N/A
+- Dimensiones (Ancho x Alto x Fondo mm.)
+    - Sin peana: 967.5 x 561.4 x 59.7
+    - Con peana: 967.5 x 609.7 x 191
+    - Con caja: 1097 x 650 x 123
+- Soporte pared VESA compatible: 200x200
+
+## Notas al pie
+¹ Samsung ocupa el puesto número 1 mundial como marca de televisores más vendida

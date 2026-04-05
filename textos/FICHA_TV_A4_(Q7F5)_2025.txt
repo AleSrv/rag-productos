@@ -1,0 +1,141 @@
+Aquí tienes la información extraída del PDF en formato Markdown:
+
+# Samsung QLED Q7F5
+
+- **Modelos disponibles:** 75", 65", 55"
+- Samsung es la marca N°1 mundial en venta de TV durante 19 años¹.
+- Imágenes tratadas con fines publicitarios.
+
+## Samsung Vision AI
+
+### Inteligencia Artificial que mejora la imagen y el sonido
+- Disfruta de esa serie de los 80 como si la hubiesen grabado en 4K.
+- La AI escala cualquier contenido optimizando imagen y sonido².
+
+### Inteligencia Artificial que mejora tu día a día Samsung Vision AI
+- Accede a un mundo de posibilidades con solo un botón: subtítulos, detalles de tus artistas favoritos, control de tu casa³.
+
+### El auténtico Quantum dot
+- 100% Volumen de color con Quantum dot.
+- 100% del color a cualquier nivel de brillo... y ¡sin cadmio!⁴
+
+### Más de 500 canales
+- Entretenimiento ilimitado.
+- Contenido para todos los gustos: noticias, deportes, entretenimiento y mucho más⁵.
+
+## Especificaciones Técnicas Q7F5
+
+### Imagen
+- Resolución: 4K
+- Contraste: Mega Contrast
+- HDR (High Dynamic Range): Quantum HDR
+- Ratio de refresco: 60 hercios
+- Tecnología: QLED
+- Color: 100% Volumen de Color con Quantum Dot
+- HDR10+: Pro
+- Procesador: Q4 AI Processor
+- Micro Dimming: Supreme UHD Dimming
+- Contrast Enhancer: Sí
+- Picture Upscale: 4K Upscaling
+- Filmmaker Mode: Sí
+- ECO Sensor: Sí
+
+### Sonido
+- Potencia: 20 vatios
+- Altavoces: 2 Ch
+- Q-Symphony: Sí
+- OTS (Object Tracking Sound): OTS Lite
+- Adaptive Sound: Sí
+- Salida Audio Bluetooth: Dual
+
+### Diseño
+- Diseño: Slim Look
+- Art Mode: Sí
+
+### Vision AI
+- Click to Search: Sí
+- Generative Wallpaper: Sí
+- Multi View: 2 pantallas
+- Multi Control: Sí
+- Asistente de voz integrado: Bixby y Alexa
+- Asistente de voz compatible: Alexa y Google
+- Apple AirPlay: Sí
+- Workspace: TV como monitor externo inalámbrico
+
+### Smart TV Powered by Tizen
+- TV Plus: Sí
+- Universal Guide: Sí
+- Multi Device Experience: Móvil a TV, Sound Mirroring, Wireless TV On
+- SmartThings: Integrado
+- AI Energy Mode: Sí
+- Universal Gesture: Sí
+- Quick Remote: Sí
+- Tap View: Sí
+- Samsung Knox Security: Sí, reforzado
+
+### Conectividad
+- Transmisor Digital: DVB-T2CS2
+- WiFi/Bluetooth: WiFi 5/BT5.3
+- HDMI: 3 puertos
+- Transmisión de datos: HbbTV 2.0.4
+- USB: 1 x USB-A
+- Entrada RF (Terrestre / Entrada Cable / Entrada satélite): 1/1(Common Use for Terrestrial)/1
+
+### Remote Controller
+- Modelo Remote Control: Solar con botón AI
+
+## Soundbars recomendadas
+- **Experto:** HW-Q600F (Sonido inteligente)
+- **Aficionado:** HW-S700D (Fina y potente)
+- **Principiante:** HW-B650F (Sonido surround)
+
+## Dimensiones y Peso
+
+### Modelo: TQ75Q7F5AUXXC
+- EAN: 8806097124474
+- Pulgadas: 75"
+- Cms: 189
+- Peso sin peana: 25.3 kg
+- Peso con peana: 26.7 kg
+- Peso con caja: 36.1 kg
+- Dimensión peana: 354.8 x 331.5 mm
+- Dimensiones sin peana (Ancho x Alto x Fondo): 1677.5 x 962.4 x 61.1 mm
+- Dimensiones con peana (Ancho x Alto x Fondo): 1677.5 x 1023.0 x 331.5 mm
+- Dimensiones con caja (Ancho x Alto x Fondo): 1822 x 1100 x 175 mm
+- Soporte pared VESA compatible: 400x400
+
+### Modelo: TQ65Q7F5AUXXC
+- EAN: 8806097124405
+- Pulgadas: 65"
+- Cms: 163
+- Peso sin peana: 17.4 kg
+- Peso con peana: 18.5 kg
+- Peso con caja: 24.1 kg
+- Dimensión peana: 314.3 x 279.4 mm
+- Dimensiones sin peana (Ancho x Alto x Fondo): 1452.9 x 834 x 60.6 mm
+- Dimensiones con peana (Ancho x Alto x Fondo): 1452.9 x 894.5 x 279.4 mm
+- Dimensiones con caja (Ancho x Alto x Fondo): 1590 x 932 x 161 mm
+- Soporte pared VESA compatible: 400x300
+
+### Modelo: TQ55Q7F5AUXXC
+- EAN: 8806097124375
+- Pulgadas: 55"
+- Cms: 138
+- Peso sin peana: 11.3 kg
+- Peso con peana: 12.1 kg
+- Peso con caja: 17.1 kg
+- Dimensión peana: 263.9 x 247.4 mm
+- Dimensiones sin peana (Ancho x Alto x Fondo): 1234.1 x 710.8 x 60.3 mm
+- Dimensiones con peana (Ancho x Alto x Fondo): 1234.1 x 765.3 x 247.4 mm
+- Dimensiones con caja (Ancho x Alto x Fondo): 1369 x 828 x 142 mm
+- Soporte pared VESA compatible: 200x200
+
+## Notas al pie
+
+¹ Samsung ocupa el puesto número 1 mundial como marca de televisores más vendida durante 19 años. Fuente Omdia, febrero de 2025. Los resultados no constituyen un respaldo por parte de Samsung, el uso de los resultados es bajo su propia responsabilidad.
+² La experiencia de visualización puede variar de acuerdo con los tipos de contenido y formato. Necesario iniciar sesión en Samsung Account y estar conectado a internet. 4K 144 hercios solo está disponible con contenidos conectados al PC o consola. Requiere determinada tarjeta gráfica en el PC y el rendimiento puede variar. Comparado con TVs Samsung de gamas anteriores.
+³ La experiencia de visualización puede variar de acuerdo con los tipos de contenido y formato.
+⁴ Certificado por la VDE (Verband Deutscher Elektrotechniker) por su capacidad para reproducir el 100% del volumen de color.
+⁵ Los canales están sujetos a cambios sin notificación. Dentro de los 500 canales, hay algunos que requieren la descarga de la aplicación y una cuenta Samsung. La interfaz de usuario está sujeta a cambios sin previo aviso. Pueden aparecer anuncios en Samsung TV Plus. Disponible de forma gratuita en televisores inteligentes Samsung desde 2016.
+⁶ Descubre el auténtico color validado por PANTONE. Como un símbolo de fidelidad al color en la industria, "PANTONE Validated" significa la capacidad de reproducir 2.030 colores y 110 tonos de piel. Es el primer TV que recibe esta validación. Frente a TVs Samsung sin validación Pantone.
+- Ficha de producto sujeta a posibles cambios.
