@@ -1,0 +1,148 @@
+/* RESET */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: sans-serif;
+  background: #f0f2f5;
+  min-height: 100vh;
+}
+
+/* HEADER */
+header {
+  background: #1428A0;
+  color: white;
+  padding: 14px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+header h1 {
+  font-size: 18px;
+}
+
+.logo-btn {
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  background: white;
+  border: none;
+  font-weight: bold;
+  color: #1428A0;
+  cursor: pointer;
+}
+
+/* CONTAINER */
+.container {
+  width: 100%;
+  padding: 16px;
+}
+
+/* TARJETAS */
+#paso1,
+#paso2 {
+  background: white;
+  border-radius: 12px;
+  padding: 16px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+}
+
+/* BUSCADOR */
+#buscador {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  margin: 12px 0;
+}
+
+/* GRID PRODUCTOS */
+#lista-productos {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 10px;
+  max-height: 300px;
+  overflow-y: auto;
+}
+
+.producto-btn {
+  padding: 12px;
+  border: 1px solid #d0d5f5;
+  border-radius: 8px;
+  background: #f8f9ff;
+  cursor: pointer;
+  text-align: left;
+}
+
+/* CHAT */
+#paso2 {
+  display: none;
+}
+
+#chat {
+  margin-top: 10px;
+  max-height: 400px;
+  overflow-y: auto;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.burbuja {
+  max-width: 80%;
+  padding: 10px;
+  border-radius: 12px;
+}
+
+.usuario {
+  align-self: flex-end;
+  background: #1428A0;
+  color: white;
+}
+
+.bot {
+  align-self: flex-start;
+  background: #eee;
+}
+
+/* INPUT */
+#form-chat {
+  display: flex;
+  gap: 8px;
+  margin-top: 10px;
+}
+
+#input {
+  flex: 1;
+  padding: 10px;
+}
+
+#enviar-btn {
+  padding: 10px;
+  background: #1428A0;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+/* 💻 DESKTOP */
+@media (min-width: 768px) {
+
+  .container {
+    max-width: 900px;
+    margin: auto;
+  }
+
+  #lista-productos {
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  }
+
+  header h1 {
+    font-size: 20px;
+  }
+
+}

@@ -3,70 +3,43 @@
 <head>
   <meta charset="UTF-8">
   <title>Chat Samsung 2025</title>
-  <style>
-    * { box-sizing: border-box; margin: 0; padding: 0; }
-    body { font-family: sans-serif; background: #f0f2f5; min-height: 100vh; }
-    header { background: #1428A0; color: white; padding: 16px 24px; display: flex; align-items: center; gap: 12px; }
-    header h1 { font-size: 20px; }
-    .container { max-width: 860px; margin: 30px auto; padding: 0 16px; }
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    #paso1 { background: white; border-radius: 12px; padding: 24px; box-shadow: 0 2px 8px rgba(0,0,0,0.08); }
-    #paso1 h2 { color: #1428A0; margin-bottom: 8px; }
-    #paso1 p { color: #666; margin-bottom: 20px; font-size: 14px; }
-    #buscador { width: 100%; padding: 10px 14px; border: 1px solid #ddd; border-radius: 8px; font-size: 15px; margin-bottom: 16px; }
-    #lista-productos { display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 10px; max-height: 400px; overflow-y: auto; }
-    .producto-btn { background: #f8f9ff; border: 1px solid #d0d5f5; border-radius: 8px; padding: 12px; text-align: left; cursor: pointer; font-size: 13px; color: #1428A0; transition: all 0.2s; }
-    .producto-btn:hover { background: #1428A0; color: white; }
-
-    #paso2 { display: none; background: white; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.08); overflow: hidden; }
-    #producto-header { background: #1428A0; color: white; padding: 14px 20px; display: flex; justify-content: space-between; align-items: center; }
-    #producto-header span { font-size: 15px; font-weight: bold; }
-    #cambiar-btn { background: rgba(255,255,255,0.2); border: none; color: white; padding: 6px 12px; border-radius: 6px; cursor: pointer; font-size: 13px; }
-    #chat { padding: 20px; min-height: 300px; max-height: 450px; overflow-y: auto; display: flex; flex-direction: column; gap: 12px; }
-
-    .burbuja-wrap { display: flex; flex-direction: column; }
-    .burbuja-wrap.usuario { align-items: flex-end; }
-    .burbuja-wrap.bot { align-items: flex-start; }
-    .nombre { font-size: 11px; color: #999; margin-bottom: 4px; padding: 0 4px; }
-    .burbuja { max-width: 75%; padding: 10px 14px; border-radius: 16px; font-size: 14px; line-height: 1.5; }
-    .burbuja.usuario { background: #1428A0; color: white; border-bottom-right-radius: 4px; }
-    .burbuja.bot { background: #f0f2f5; color: #333; border-bottom-left-radius: 4px; }
-
-    /* Animación de escritura */
-    .typing { display: flex; gap: 4px; padding: 12px 16px; background: #f0f2f5; border-radius: 16px; border-bottom-left-radius: 4px; width: fit-content; }
-    .typing span { width: 8px; height: 8px; background: #999; border-radius: 50%; animation: bounce 1.2s infinite; }
-    .typing span:nth-child(2) { animation-delay: 0.2s; }
-    .typing span:nth-child(3) { animation-delay: 0.4s; }
-    @keyframes bounce { 0%, 60%, 100% { transform: translateY(0); } 30% { transform: translateY(-6px); } }
-
-    #form-chat { display: flex; gap: 8px; padding: 16px; border-top: 1px solid #eee; }
-    #input { flex: 1; padding: 10px 14px; border: 1px solid #ddd; border-radius: 8px; font-size: 15px; }
-    #enviar-btn { padding: 10px 20px; background: #1428A0; color: white; border: none; border-radius: 8px; cursor: pointer; font-size: 15px; }
-    #enviar-btn:disabled { background: #aaa; cursor: not-allowed; }
-  </style>
+  <!-- CSS -->
+  <link rel="stylesheet" href="./css/styles.css">
 </head>
 <body>
 
 <header>
-  <button onclick="resetear()" style="width:36px;height:36px;border-radius:50%;background:white;border:none;cursor:pointer;font-weight:bold;font-size:16px;color:#1428A0;flex-shrink:0;">S</button>
+  <button onclick="resetear()" class="logo-btn">S</button>
   <h1>Asistente Samsung 2025</h1>
 </header>
 
 <div class="container">
 
+  <!-- PASO 1 -->
   <div id="paso1">
     <h2>¿Sobre qué producto quieres consultar?</h2>
     <p>Selecciona un modelo para empezar a hacer preguntas.</p>
-    <input id="buscador" type="text" placeholder="Buscar modelo... (ej: S93F, Neo QLED, Serif...)" oninput="filtrarProductos()">
-    <div id="lista-productos"><p style="color:#aaa">Cargando productos...</p></div>
+
+    <input id="buscador" type="text"
+      placeholder="Buscar modelo..."
+      oninput="filtrarProductos()">
+
+    <div id="lista-productos">
+      <p class="loading">Cargando productos...</p>
+    </div>
   </div>
 
+  <!-- PASO 2 -->
   <div id="paso2">
     <div id="producto-header">
       <span id="producto-nombre">Producto</span>
       <button id="cambiar-btn" onclick="cambiarProducto()">← Cambiar producto</button>
     </div>
+
     <div id="chat"></div>
+
     <div id="form-chat">
       <input id="input" type="text" placeholder="Pregunta sobre este producto..." />
       <button id="enviar-btn" onclick="preguntar()">Enviar</button>
@@ -75,150 +48,7 @@
 
 </div>
 
-<script>
-  let productos = [];
-  let productoSeleccionado = null;
-  let streamActivo = null;
-
-function resetear() {
-  if (streamActivo) { streamActivo.close(); streamActivo = null; }
-  productoSeleccionado = null;
-  document.getElementById('chat').innerHTML = '';
-  document.getElementById('paso1').style.display = 'block';
-  document.getElementById('paso2').style.display = 'none';
-  document.getElementById('buscador').value = '';
-  renderProductos(productos);
-}
-
-  async function cargarProductos() {
-    try {
-      const res = await fetch('/api/productos');
-      productos = await res.json();
-      renderProductos(productos);
-    } catch {
-      document.getElementById('lista-productos').innerHTML = '<p style="color:red">Error cargando productos</p>';
-    }
-  }
-
-  function renderProductos(lista) {
-    const c = document.getElementById('lista-productos');
-    c.innerHTML = lista.length === 0
-      ? '<p style="color:#aaa">No encontrado</p>'
-      : lista.map(p => `<button class="producto-btn" onclick="seleccionarProducto('${p.archivo}', '${p.nombre}')">${p.nombre}</button>`).join('');
-  }
-
-  function filtrarProductos() {
-    const q = document.getElementById('buscador').value.toLowerCase();
-    renderProductos(productos.filter(p => p.nombre.toLowerCase().includes(q) || p.archivo.toLowerCase().includes(q)));
-  }
-
-  function seleccionarProducto(archivo, nombre) {
-    productoSeleccionado = archivo;
-    document.getElementById('producto-nombre').textContent = nombre;
-    document.getElementById('chat').innerHTML = '';
-    document.getElementById('paso1').style.display = 'none';
-    document.getElementById('paso2').style.display = 'block';
-    document.getElementById('input').focus();
-  }
-
-  function cambiarProducto() {
-    if (streamActivo) { streamActivo.close(); streamActivo = null; }
-    document.getElementById('paso1').style.display = 'block';
-    document.getElementById('paso2').style.display = 'none';
-    productoSeleccionado = null;
-  }
-
-  function agregarBurbuja(texto, tipo) {
-    const chat = document.getElementById('chat');
-    const wrap = document.createElement('div');
-    wrap.className = `burbuja-wrap ${tipo}`;
-    wrap.innerHTML = `
-      <div class="nombre">${tipo === 'usuario' ? 'Tú' : '🤖 Samsung AI'}</div>
-      <div class="burbuja ${tipo}">${texto}</div>`;
-    chat.appendChild(wrap);
-    chat.scrollTop = chat.scrollHeight;
-    return wrap.querySelector('.burbuja');
-  }
-
-  function mostrarTyping() {
-    const chat = document.getElementById('chat');
-    const div = document.createElement('div');
-    div.id = 'typing';
-    div.className = 'burbuja-wrap bot';
-    div.innerHTML = `<div class="nombre">🤖 Samsung AI</div><div class="typing"><span></span><span></span><span></span></div>`;
-    chat.appendChild(div);
-    chat.scrollTop = chat.scrollHeight;
-  }
-
-  function quitarTyping() {
-    const t = document.getElementById('typing');
-    if (t) t.remove();
-  }
-
-  async function preguntar() {
-    const input = document.getElementById('input');
-    const btn = document.getElementById('enviar-btn');
-    const pregunta = input.value.trim();
-    if (!pregunta || !productoSeleccionado) return;
-
-    // Cancelar stream anterior si existe
-    if (streamActivo) { streamActivo.close(); streamActivo = null; quitarTyping(); }
-
-    agregarBurbuja(pregunta, 'usuario');
-    input.value = '';
-    btn.disabled = true;
-    mostrarTyping();
-
-    try {
-      const res = await fetch('/api/preguntar-stream', {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ pregunta, archivo: productoSeleccionado })
-      });
-
-      const reader = res.body.getReader();
-      const decoder = new TextDecoder();
-      let burbuja = null;
-      let texto = '';
-      streamActivo = reader;
-
-      while (true) {
-        const { done, value } = await reader.read();
-        if (done) break;
-
-        const chunk = decoder.decode(value);
-        const lines = chunk.split('\n').filter(l => l.startsWith('data: '));
-
-        for (const line of lines) {
-          const data = line.replace('data: ', '');
-          if (data === '[DONE]') break;
-          try {
-            const parsed = JSON.parse(data);
-            if (parsed.token) {
-              if (!burbuja) { quitarTyping(); burbuja = agregarBurbuja('', 'bot'); }
-              texto += parsed.token;
-              burbuja.textContent = texto;
-              document.getElementById('chat').scrollTop = document.getElementById('chat').scrollHeight;
-            }
-          } catch {}
-        }
-      }
-    } catch (err) {
-      quitarTyping();
-      agregarBurbuja('Error: ' + err.message, 'bot');
-    }
-
-    streamActivo = null;
-    btn.disabled = false;
-    document.getElementById('input').focus();
-  }
-
-  document.addEventListener('DOMContentLoaded', () => {
-    cargarProductos();
-    document.getElementById('input').addEventListener('keypress', e => {
-      if (e.key === 'Enter') preguntar();
-    });
-  });
-</script>
+<!-- JS -->
+<script src="./js/app.js"></script>
 </body>
 </html>
