@@ -1,4 +1,15 @@
+# Node modules
 node_modules/
+
+# Entorno
 .env
+
+# Bases de datos locales
+*.db
+
+# Archivos temporales / logs
+*.save
+nohup.out
+
+# Mac OS
 .DS_Store
-.env
