@@ -83,7 +83,7 @@ router.post('/api/preguntar-stream', async (req, res) => {
   console.log('🧠 Top scores:', resultados.slice(0, 3).map(r => r.score.toFixed(4)));
 
   // Filtrar chunks con score insuficiente
-  const SCORE_MINIMO = 0.55;
+  const SCORE_MINIMO = 0.45;
   const resultadosFiltrados = resultados.filter(r => r.score >= SCORE_MINIMO);
 
   // Si no hay chunks relevantes, responder sin llamar al modelo
@@ -198,7 +198,5 @@ router.get('/api/productos', (req, res) => {
     res.status(500).json({ error: 'Error interno' });
   }
 });
-
-module.exports = router;
 
 module.exports = router;
